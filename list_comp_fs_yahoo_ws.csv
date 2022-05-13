@@ -1,0 +1,172 @@
+,ticker,company_name,sector,specific
+0,A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research
+1,ABT,Abbott Laboratories,Healthcare,Medical Devices
+2,ADI,"Analog Devices, Inc.",Technology,Semiconductors
+3,AEP,"American Electric Power Company, Inc.",Utilities,Utilities—Regulated Electric
+4,AGCO,AGCO Corporation,Industrials,Farm & Heavy Construction Machinery
+5,AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials
+6,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors
+7,AMGN,Amgen Inc.,Healthcare,Drug Manufacturers—General
+8,AMKR,"Amkor Technology, Inc.",Technology,Semiconductors
+9,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail
+10,ANF,Abercrombie & Fitch Co.,Consumer Cyclical,Apparel Retail
+11,APH,Amphenol Corporation,Technology,Electronic Components
+12,ARW,"Arrow Electronics, Inc.",Technology,Electronics & Computer Distribution
+13,AVGO,Broadcom Inc.,Technology,Semiconductors
+14,AVT,"Avnet, Inc.",Technology,Electronics & Computer Distribution
+15,AWR,American States Water Company,Utilities,Utilities—Regulated Water
+16,BA,The Boeing Company,Industrials,Aerospace & Defense
+17,BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies
+18,BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies
+19,BIIB,Biogen Inc.,Healthcare,Drug Manufacturers—General
+20,BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services
+21,BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers—General
+22,BSX,Boston Scientific Corporation,Healthcare,Medical Devices
+23,BWA,BorgWarner Inc.,Consumer Cyclical,Auto Parts
+24,CARR,Carrier Global Corporation,Industrials,Building Products & Equipment
+25,CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery
+26,CDW,CDW Corporation,Technology,Information Technology Services
+27,CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products
+28,CLX,The Clorox Company,Consumer Defensive,Household & Personal Products
+29,CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery
+30,CNHI,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery
+31,COKE,"Coca-Cola Consolidated, Inc.",Consumer Defensive,Beverages—Non-Alcoholic
+32,COP,ConocoPhillips,Energy,Oil & Gas E&P
+33,COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores
+34,CR,Crane Co.,Industrials,Specialty Industrial Machinery
+35,CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment
+36,CTAS,Cintas Corporation,Industrials,Specialty Business Services
+37,CTVA,"Corteva, Inc.",Basic Materials,Agricultural Inputs
+38,CVX,Chevron Corporation,Energy,Oil & Gas Integrated
+39,D,"Dominion Energy, Inc.",Utilities,Utilities—Regulated Electric
+40,DAN,Dana Incorporated,Consumer Cyclical,Auto Parts
+41,DD,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals
+42,DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery
+43,DELL,Dell Technologies Inc.,Technology,Computer Hardware
+44,DHR,Danaher Corporation,Healthcare,Diagnostics & Research
+45,DUK,Duke Energy Corporation,Utilities,Utilities—Regulated Electric
+46,ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals
+47,ED,"Consolidated Edison, Inc.",Utilities,Utilities—Regulated Electric
+48,EIX,Edison International,Utilities,Utilities—Regulated Electric
+49,EL,The Estée Lauder Companies Inc.,Consumer Defensive,Household & Personal Products
+50,ELY,Callaway Golf Company,Consumer Cyclical,Leisure
+51,EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P
+52,EQNR,Equinor ASA,Energy,Oil & Gas Integrated
+53,ES,Eversource Energy,Utilities,Utilities—Regulated Electric
+54,ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery
+55,EVRG,"Evergy, Inc.",Utilities,Utilities—Regulated Electric
+56,FLEX,Flex Ltd.,Technology,Electronic Components
+57,FLS,Flowserve Corporation,Industrials,Specialty Industrial Machinery
+58,FTNT,"Fortinet, Inc.",Technology,Software—Infrastructure
+59,FTS,Fortis Inc.,Utilities,Utilities—Regulated Electric
+60,GD,General Dynamics Corporation,Industrials,Aerospace & Defense
+61,GE,General Electric Company,Industrials,Specialty Industrial Machinery
+62,GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers—General
+63,GLW,Corning Incorporated,Technology,Electronic Components
+64,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers
+65,GPS,"The Gap, Inc.",Consumer Cyclical,Apparel Retail
+66,GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution
+67,HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services
+68,HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure
+69,HD,"The Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail
+70,HES,Hess Corporation,Energy,Oil & Gas E&P
+71,HON,Honeywell International Inc.,Industrials,Conglomerates
+72,HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment
+73,HPQ,HP Inc.,Technology,Computer Hardware
+74,HUN,Huntsman Corporation,Basic Materials,Chemicals
+75,IBM,International Business Machines Corporation,Technology,Information Technology Services
+76,IMO,Imperial Oil Limited,Energy,Oil & Gas Integrated
+77,INTC,Intel Corporation,Technology,Semiconductors
+78,IR,Ingersoll Rand Inc.,Industrials,Specialty Industrial Machinery
+79,ITT,ITT Inc.,Industrials,Specialty Industrial Machinery
+80,ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery
+81,JBL,Jabil Inc.,Technology,Electronic Components
+82,JCI,Johnson Controls International plc,Industrials,Engineering & Construction
+83,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers—General
+84,JNPR,"Juniper Networks, Inc.",Technology,Communication Equipment
+85,KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods
+86,KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials
+87,KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products
+88,KO,The Coca-Cola Company,Consumer Defensive,Beverages—Non-Alcoholic
+89,LEA,Lear Corporation,Consumer Cyclical,Auto Parts
+90,LEN,Lennar Corporation,Consumer Cyclical,Residential Construction
+91,LHX,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense
+92,LII,Lennox International Inc.,Industrials,Specialty Industrial Machinery
+93,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers—General
+94,LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense
+95,LNT,Alliant Energy Corporation,Utilities,Utilities—Regulated Electric
+96,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail
+97,LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials
+98,LSCC,Lattice Semiconductor Corporation,Technology,Semiconductors
+99,LUV,Southwest Airlines Co.,Industrials,Airlines
+100,MCK,McKesson Corporation,Healthcare,Medical Distribution
+101,MDT,Medtronic plc,Healthcare,Medical Devices
+102,MG,"Mistras Group, Inc.",Industrials,Security & Protection Services
+103,MHK,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+104,MMM,3M Company,Industrials,Conglomerates
+105,MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing
+106,MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers—General
+107,MRO,Marathon Oil Corporation,Energy,Oil & Gas E&P
+108,MRVL,"Marvell Technology, Inc.",Technology,Semiconductors
+109,MSFT,Microsoft Corporation,Technology,Software—Infrastructure
+110,MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment
+111,MU,"Micron Technology, Inc.",Technology,Semiconductors
+112,NEE,"NextEra Energy, Inc.",Utilities,Utilities—Regulated Electric
+113,NEU,NewMarket Corporation,Basic Materials,Specialty Chemicals
+114,NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories
+115,NOVN,"Novan, Inc.",Healthcare,Biotechnology
+116,NUE,Nucor Corporation,Basic Materials,Steel
+117,NVDA,NVIDIA Corporation,Technology,Semiconductors
+118,NXPI,NXP Semiconductors N.V.,Technology,Semiconductors
+119,OC,Owens Corning,Industrials,Building Products & Equipment
+120,ON,ON Semiconductor Corporation,Technology,Semiconductors
+121,OSK,Oshkosh Corporation,Industrials,Farm & Heavy Construction Machinery
+122,OTIS,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery
+123,OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P
+124,PCAR,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery
+125,PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages—Non-Alcoholic
+126,PFE,Pfizer Inc.,Healthcare,Drug Manufacturers—General
+127,PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products
+128,PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery
+129,PNW,Pinnacle West Capital Corporation,Utilities,Utilities—Regulated Electric
+130,PPL,PPL Corporation,Utilities,Utilities—Regulated Electric
+131,QCOM,QUALCOMM Incorporated,Technology,Semiconductors
+132,REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology
+133,RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing
+134,ROK,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery
+135,RTX,Raytheon Technologies Corporation,Industrials,Aerospace & Defense
+136,SANM,Sanmina Corporation,Technology,Electronic Components
+137,SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants
+138,SCS,Steelcase Inc.,Industrials,Business Equipment & Supplies
+139,SNA,Snap-on Incorporated,Industrials,Tools & Accessories
+140,SO,The Southern Company,Utilities,Utilities—Regulated Electric
+141,SR,Spire Inc.,Utilities,Utilities—Regulated Gas
+142,STM,STMicroelectronics N.V.,Technology,Semiconductors
+143,STX,Seagate Technology Holdings plc,Technology,Computer Hardware
+144,SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories
+145,SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors
+146,SYK,Stryker Corporation,Healthcare,Medical Devices
+147,T,AT&T Inc.,Communication Services,Telecom Services
+148,TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments
+149,TEL,TE Connectivity Ltd.,Technology,Electronic Components
+150,TGT,Target Corporation,Consumer Defensive,Discount Stores
+151,TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research
+152,TOL,"Toll Brothers, Inc.",Consumer Cyclical,Residential Construction
+153,TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail
+154,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers
+155,TT,Trane Technologies plc,Industrials,Specialty Industrial Machinery
+156,TXN,Texas Instruments Incorporated,Technology,Semiconductors
+157,UNP,Union Pacific Corporation,Industrials,Railroads
+158,VC,Visteon Corporation,Consumer Cyclical,Auto Parts
+159,VFC,V.F. Corporation,Consumer Cyclical,Apparel Manufacturing
+160,VNT,Vontier Corporation,Technology,Scientific & Technical Instruments
+161,VSH,"Vishay Intertechnology, Inc.",Technology,Semiconductors
+162,WDC,Western Digital Corporation,Technology,Computer Hardware
+163,WEC,"WEC Energy Group, Inc.",Utilities,Utilities—Regulated Electric
+164,WHR,Whirlpool Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+165,WMT,Walmart Inc.,Consumer Defensive,Discount Stores
+166,WY,Weyerhaeuser Company,Real Estate,REIT—Specialty
+167,XEL,Xcel Energy Inc.,Utilities,Utilities—Regulated Electric
+168,XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated
+169,XRX,Xerox Holdings Corporation,Technology,Information Technology Services
+170,YORW,The York Water Company,Utilities,Utilities—Regulated Water
